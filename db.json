@@ -1,0 +1,33 @@
+{
+    "pizza": [
+      { "id": 1, 
+      "title": "Marguerite", 
+      "description": " Pizza Marguerite avec Tomate et Fromage",
+      "img":"https://tinyurl.com/imgmarguerite",
+      "price":4000
+     },
+     { "id": 2, 
+     "title": "Mexican", 
+     "description": " Pizza Mexican avec Sauce bolognese piquante, jalapeño, oignons et poivrons",
+     "img":"https://tinyurl.com/imgpizzamexican",
+     "price":6000
+    },
+    { "id": 3, 
+     "title": "Végétarien", 
+     "description": " Pizza Végétarien avec Oignons, tomate, poivrons, champions et olives",
+     "img":"https://tinyurl.com/imgpizzavege",
+     "price":8000
+    },
+    { "id": 4, 
+     "title": "Supreme", 
+     "description": " Pizza Supreme avec Poulet, jambon, salami, poivrons, champions et oignons",
+     "img":"https://tinyurl.com/imgpizsup",
+     "price":8000
+    }
+    ],
+    "cake": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "africanfoods": { 
+        "name": "typicode" }
+  }
