@@ -25,8 +25,31 @@
      "price":8000
     }
     ],
-    "cake": [
-      { "id": 1, "body": "some comment", "postId": 1 }
+     "cake": [
+      { "id": 1, 
+      "title": "Gâteau de Rêve", 
+      "description": " Pizza Marguerite avec Tomate et Fromage",
+      "img":"https://tinyurl.com/imgcake1",
+      "price":6000
+     },
+     { "id": 2, 
+     "title": "Gâteau S'mores au chocolat avec duvet de guimauve maison et ganache", 
+     "description": " Pizza Mexican avec Sauce bolognese piquante, jalapeño, oignons et poivrons",
+     "img":"https://tinyurl.com/imgcake3",
+     "price":12000
+    },
+    { "id": 3, 
+     "title": "Gâteau de mariage ", 
+     "description": " Gâteau S'mores au chocolat avec duvet de guimauve maison et ganache",
+     "img":"https://tinyurl.com/imgcake4",
+     "price":40000
+    },
+    { "id": 4, 
+     "title": "Gâteau de sureau aux fraises", 
+     "description": " Pizza Supreme avec Poulet, jambon, salami, poivrons, champions et oignons",
+     "img":"https://tinyurl.com/imgcake5",
+     "price":8000
+    }
     ],
     "africanfoods": { 
         "name": "typicode" }
