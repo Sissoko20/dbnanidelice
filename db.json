@@ -51,6 +51,31 @@
      "price":8000
     }
     ],
-    "africanfoods": { 
-        "name": "typicode" }
+    "plAfricain": [
+      { "id": 1, 
+      "title": "N'goni au sauce viande", 
+      "description": " Pizza Marguerite avec Tomate et Fromage",
+      "img":"https://tinyurl.com/imgpafr1",
+      "price":3000
+     },
+     { "id": 2, 
+     "title": "Mafé au Poulet fumé : La saveur du Sénégal", 
+     "description": " Pizza Mexican avec Sauce bolognese piquante, jalapeño, oignons et poivrons",
+     "img":"https://tinyurl.com/imgpafr2",
+     "price":12000
+    },
+    { "id": 3, 
+     "title":"Thiou boulettes au riz", 
+     "description": " Gâteau S'mores au chocolat avec duvet de guimauve maison et ganache",
+     "img":"https://tinyurl.com/imgpafri",
+     "price":40000
+    },
+    { "id": 4, 
+     "title": "Tilapia braisé attiéké", 
+     "description": " Pizza Supreme avec Poulet, jambon, salami, poivrons, champions et oignons",
+     "img":"https://tinyurl.com/imgpafr4",
+     "price":8000
+    }
+    ]
+   
   }
