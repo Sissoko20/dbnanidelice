@@ -33,7 +33,7 @@
       "price":6000
      },
      { "id": 2, 
-     "title": "Gâteau S'mores au chocolat avec duvet de guimauve maison et ganache", 
+     "title": "Gâteau S'mores au chocolat", 
      "description": " Pizza Mexican avec Sauce bolognese piquante, jalapeño, oignons et poivrons",
      "img":"https://tinyurl.com/imgcake3",
      "price":12000
@@ -59,7 +59,7 @@
       "price":3000
      },
      { "id": 2, 
-     "title": "Mafé au Poulet fumé : La saveur du Sénégal", 
+     "title": "Mafé au Poulet fumé", 
      "description": " Pizza Mexican avec Sauce bolognese piquante, jalapeño, oignons et poivrons",
      "img":"https://tinyurl.com/imgpafr2",
      "price":12000
